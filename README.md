@@ -1,3 +1,13 @@
+This app is just an attempt to create a Google Drive Replica, at least from a design standpoint, using Svelte.js
+Hopefully it works well and maybe allows me to interface with my NAS?
+![image](https://user-images.githubusercontent.com/37225647/151105700-5b67130b-6814-47c6-8390-47c8dacc64c7.png)
+
+
+
+
+
+
+
 *Psst — looking for a more complete solution? Check out [SvelteKit](https://kit.svelte.dev), the official framework for building web applications of all sizes, with a beautiful development experience and flexible filesystem-based routing.*
 
 *Looking for a shareable component template instead? You can [use SvelteKit for that as well](https://kit.svelte.dev/docs#packaging) or the older [sveltejs/component-template](https://github.com/sveltejs/component-template)*
